@@ -26,7 +26,7 @@ dataset such as described.
 Assume that the task at hand requires a model that might be put into
 production, if (and only if) it meets  certain criteria. Assume that 
 your "customer" wants you to explain your steps and that you succinctly describe
-your model performance and usefulness.
+your model performance and usefulness. 
 
 * how do you perform  model selection? i.e. to decide whether to use e.g. GLM's, GAM's or GBM?
 * what types of missingness are there in your datasets, how do you know?
