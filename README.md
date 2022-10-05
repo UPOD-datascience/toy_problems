@@ -5,10 +5,10 @@ Prelim:
 * we assume that the data contains information that is associated with the target
 * we assume nothing in terms of the causal structure
 
-Binomial:
+**Binomial**:
 * [569 samples, 30 IV's, Breast Cancer Wisconsin](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
 
-Regressive:
+**Regressive**:
 * [442 samples, 10 IV's, Diabetes](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.tab.txt)
 
 To spice things we can
